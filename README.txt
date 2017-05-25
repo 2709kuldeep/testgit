@@ -1,1 +1,2 @@
-This is readme file 
+This is readme file and used to install application.
+Hi my readme file....
