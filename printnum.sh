@@ -1,5 +1,5 @@
 #!/bin/bash
-for n in {1..20}
+for n in {1..10}
 do
    out=$(( $n % 2 ))
    if [ $out -ne 0 ] 
