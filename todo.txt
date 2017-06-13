@@ -2,3 +2,4 @@ Learn AWS
 Learn SVN
 Learn Jenkins
 Learn Chef
+Learn Shell
